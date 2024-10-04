@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\LoomLoginPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|c:\\users\\burak\\source\\repos\\loomloginpage\\loomloginpage\\logincss\\stylegirisleri.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|C:\\Users\\burak\\source\\repos\\LoomLoginPage\\loomloginpage\\logincss\\stylegirisleri.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|solutionrelative:loomloginpage\\logincss\\stylegirisleri.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|C:\\Users\\burak\\source\\repos\\LoomLoginPage\\loomloginpage\\loginhtml\\loomgiris.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|c:\\users\\burak\\source\\repos\\loomloginpage\\loomloginpage\\loginhtml\\loomgiris.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8FB2B021-BC20-429E-933C-0ABF51D18057}|LoomLoginPage\\LoomLoginPage.csproj|solutionrelative:loomloginpage\\loginhtml\\loomgiris.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "LoomLoginPage\\LoginCss\\StyleGirisleri.css",
               "ToolTip": "C:\\Users\\burak\\source\\repos\\LoomLoginPage\\LoomLoginPage\\LoginCss\\StyleGirisleri.css",
               "RelativeToolTip": "LoomLoginPage\\LoginCss\\StyleGirisleri.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-04T10:18:03.25Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "LoomLoginPage\\LoginHTML\\LoomGiris.html",
               "ToolTip": "C:\\Users\\burak\\source\\repos\\LoomLoginPage\\LoomLoginPage\\LoginHTML\\LoomGiris.html",
               "RelativeToolTip": "LoomLoginPage\\LoginHTML\\LoomGiris.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-04T10:18:48.513Z",
               "EditorCaption": ""

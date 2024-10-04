@@ -38,17 +38,6 @@
     color: #ff9292;
 }
 
-.kullaniciadi {
-    width: 300px;
-    border: 3px solid #f17249;
-    border-radius: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
-    margin: 10px;
-    padding: 15px;
-}
-
 .sifretext {
     font-family: '(MyE)Hand Of Sean';
     font-optical-sizing: auto;
@@ -56,13 +45,19 @@
     color: #ff9292;
 }
 
-.sifre {
+.inputKutu {
+    background: transparent;
     width: 300px;
     border: 3px solid #f17249;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
     float: none;
-    margin: 10px;
+    margin: 0px;
     padding: 15px;
+    color:#ffb6b6;
+    font-size: large;
+    font-family: 'Comic Sans MS';
 }
+
+
