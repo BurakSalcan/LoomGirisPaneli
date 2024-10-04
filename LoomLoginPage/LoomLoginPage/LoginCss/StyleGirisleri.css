@@ -1,0 +1,68 @@
+﻿body {
+    font-optical-sizing: auto;
+    background-image: url('../gorseller/loom background pic.jpg');
+    background-repeat: no-repeat;
+    Background-size: cover;
+}
+
+.loginfont {
+    font-family: "Sixtyfour Convergence";
+    font-optical-sizing: auto;
+    font-size:50px;
+    font-style: normal;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.disCerceve {
+    background: transparent;
+    width: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    float: none;
+    height: 240px;
+    padding: 15px;
+    color: white;
+    backdrop-filter: blur(3px);
+}
+
+.kullaniciaditext {
+    font-family: '(MyE)Hand Of Sean';
+    font-optical-sizing: auto;
+    font-size: 25px;
+    color: #ff9292;
+}
+
+.kullaniciadi {
+    width: 300px;
+    border: 3px solid #f17249;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin: 10px;
+    padding: 15px;
+}
+
+.sifretext {
+    font-family: '(MyE)Hand Of Sean';
+    font-optical-sizing: auto;
+    font-size: 25px;
+    color: #ff9292;
+}
+
+.sifre {
+    width: 300px;
+    border: 3px solid #f17249;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin: 10px;
+    padding: 15px;
+}
